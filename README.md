@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi I'm Jun 🤗
+
+### ⚡My Web Develop Stacks⚡
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-006db3?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/> <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/nodeJS-00DC82?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon Aws&logoColor=white"/> 
+
+![Jaejuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejuna&theme=prussian&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejuna&layout=compact)](https://github.com/jaejuna/github-readme-stats)
 
 <!--
 **Jaejuna/Jaejuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
