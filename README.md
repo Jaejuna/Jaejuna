@@ -1,14 +1,13 @@
-<H2 align=center> Hi I'm Jun 🤗 </div>
+<H2 align=center> I'm Jun 🤗 </div>
 
-<h5 align=center>Interested in Web develop and AI especaill Deep Learning!</h5>
-
-<H3 align=center> ⚡My Web Develop Stacks⚡ </div><br/><br/>
-<div align=center><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-006db3?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/nodeJS-00DC82?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon Aws&logoColor=white"/></div> <div align=center><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/notinon-000000?style=flat-square&logo=Notion&logoColor=white"/></div><br/>
+<h5 align=center>Interested in Web and AI</h5>
 
 <hr>
 
-![Jaejuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejuna&theme=prussian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejuna&layout=compact)](https://github.com/jaejuna/github-readme-stats)
+<div align=center><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-006db3?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JSS&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/nodeJS-00DC82?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/nestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/aws-FF9900?style=flat-square&logo=Amazon Aws&logoColor=white"/></div> <div align=center><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/notinon-000000?style=flat-square&logo=Notion&logoColor=white"/></div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejuna&layout=compact)](https://github.com/jaejuna/github-readme-stats) 
 
 <!--
 **Jaejuna/Jaejuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
