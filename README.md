@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejuna&layout=compact)](https://github.com/jaejuna/github-readme-stats) 
 
+<a href ="https://velog.io/@jaejuna"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href ="https://www.instagram.com/jajuna_99/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+
 <!--
 **Jaejuna/Jaejuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
