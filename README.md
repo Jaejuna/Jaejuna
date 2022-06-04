@@ -1,6 +1,6 @@
 <H2> Hi I'm Jun 🤗 </div>
 
-<h5>Interested in making money and better world!</h5>
+<h5>To solve problems at scale, paradoxically, you have to know the smallest details...</h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaejuna&layout=compact)](https://github.com/jaejuna/github-readme-stats) 
 
