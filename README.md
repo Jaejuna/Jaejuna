@@ -7,7 +7,7 @@
 ### 🧠 About Me
 
 - 🔬 Interested in **Data Science**, **AI**, and **System Development**
-- 📖 Learning by building — A📖 Building AI & systems for Localization (L10N) and Internationalization (I18N)  
+- 📖 Building AI & systems for Localization (L10N) and Internationalization (I18N)  
 - ✍️  Writing about what I learn at **[J's Devlog](https://j-devlog.space)**
 
 <br/>
