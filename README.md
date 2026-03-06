@@ -45,6 +45,4 @@
 <a href="https://www.linkedin.com/in/jaejun-jung-37107a293/"><img 
 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://www.instagram.com/jajuna_99/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.notion.so/jajuna/Portfolio-49d3166048a842109c5cfcd9f9b9eff7?source=copy_link"><img 
-src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:anayana9988@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
