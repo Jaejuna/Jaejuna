@@ -43,5 +43,4 @@
 <a href="https://j-devlog.space"><img src="https://img.shields.io/badge/Blog-devlog-20C997?style=flat-square&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/jaejun-jung-37107a293/"><img 
 src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://www.instagram.com/jajuna_99/"><img src="https://img.shields.io/badge/Insta-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="mailto:anayana9988@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
